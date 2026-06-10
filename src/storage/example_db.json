@@ -1,0 +1,26 @@
+{
+    "drivers": [
+        { "id": 1, "name": "Max Verstappen", "team": "Red Bull Racing" },
+        { "id": 2, "name": "Lewis Hamilton", "team": "Ferrari" },
+        { "id": 3, "name": "Nando Morris", "team": "McLaren" },
+        { "id": 4, "name": "Valtteri Bottas", "team": "Mercedes" },
+        { "id": 5, "name": "Sergio Perez", "team": "Red Bull Racing" },
+        { "id": 6, "name": "Esteban Ocon", "team": "Alpine" },
+        { "id": 7, "name": "Sebastian Vettel", "team": "Aston Martin" },
+        { "id": 8, "name": "Pierre Gasly", "team": "AlphaTauri" },
+        { "id": 9, "name": "Kimi Raikkonen", "team": "Alfa Romeo Racing" },
+        { "id": 10, "name": "Mick Schumacher", "team": "Haas F1 Team" }
+    ],
+    "teams": [
+        { "id": 1, "name": "Ferrari", "base": "Maranello, Italy" },
+        { "id": 2, "name": "McLaren", "base": "Woking, United Kingdom" },
+        { "id": 3, "name": "Mercedes", "base": "Brackley, United Kingdom" },
+        { "id": 4, "name": "Red Bull Racing", "base": "Milton Keynes, United Kingdom" },
+        { "id": 5, "name": "Alpine", "base": "Enstone, United Kingdom" },
+        { "id": 6, "name": "Aston Martin", "base": "Silverstone, United Kingdom" },
+        { "id": 7, "name": "AlphaTauri", "base": "Faenza, Italy" },
+        { "id": 8, "name": "Alfa Romeo Racing", "base": "Hinwil, Switzerland" },
+        { "id": 9, "name": "Haas F1 Team", "base": "Kannapolis, United States" },
+        { "id": 10, "name": "Williams", "base": "Grove, United Kingdom" }
+    ]
+}
